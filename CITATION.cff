@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this tool or model, please cite it as below."
+title: "Mariupol 2022 Corridor Severity Model — a retrospective decision-support prototype for civilian evacuation under IHL"
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "Christine"
+    affiliation: "New York University"
+version: "0.9"
+date-released: "2026-07-10"
+url: "https://github.com/[USERNAME]/[REPO]"
+license: MIT
+keywords:
+  - international humanitarian law
+  - civilian protection
+  - humanitarian corridors
+  - composite indicators
+  - Mariupol
